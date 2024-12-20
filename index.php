@@ -11,7 +11,7 @@
         <div id="search_container">
 			<div>
 				<input type="text" placeholder="Search" name="search" id="search_input">
-				<input type="file" accept="text/xml" id="xml_file" name="xml_file" required>
+				<input type="file" id="xml_file" name="xml_file" required>
 				<input type="button" value="Read" id="read_button">
         	</div>
 			<div id="loader" style="display:none;"></div>
